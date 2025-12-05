@@ -1,0 +1,12 @@
+---
+title: "R Notebook"
+output: html_notebook
+author: Sophie Cook
+---
+This is me practicing!
+
+```{r}
+data("ChickWeight")
+print(ChickWeight$Time)
+```
+
